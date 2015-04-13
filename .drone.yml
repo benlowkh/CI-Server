@@ -1,4 +1,4 @@
-image: dockerfile/nginx
+image: python2.7
 script:
-  - sudo apt-get install python
+  - pip install -r requirements.txt
   - python app_test.py
