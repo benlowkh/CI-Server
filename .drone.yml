@@ -1,3 +1,4 @@
 image: dockerfile/nginx
 script:
+  - sudo apt-get install python
   - python app_test.py
