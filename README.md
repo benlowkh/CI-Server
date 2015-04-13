@@ -1,4 +1,4 @@
-# CI-Server 
+# CI-Server
 
 ##Continuous Integration
 
